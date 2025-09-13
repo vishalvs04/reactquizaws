@@ -49,21 +49,7 @@ const quizData = [
       options: ["Graphical Processing Unit", "Graphics Performance Unit", "Graphics Processing Unit", "Graphical Performance Unit"],
       answer: "Graphics Processing Unit"
     },  
-    {
-      question: "What is the capital of France?",
-      options: ["New York", "London", "Paris", "Dublin"],
-      answer: "Paris"
-    },
-    {
-      question: "Who painted the Mona Lisa?",
-      options: ["Vincent Van Gogh", "Leonardo da Vinci", "Pablo Picasso", "Claude Monet"],
-      answer: "Leonardo da Vinci"
-    },
-    {
-      question: "What is the largest planet in our solar system?",
-      options: ["Earth", "Jupiter", "Saturn", "Mars"],
-      answer: "Jupiter"
-    }
+    
   ];
   
   export default quizData;
